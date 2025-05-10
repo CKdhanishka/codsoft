@@ -1,1 +1,0 @@
-This repository contains a collection of beginner-friendly Python programs developed as part of my internship at CodSoft. Each project is designed to demonstrate core programming concepts using simple, interactive applications.
