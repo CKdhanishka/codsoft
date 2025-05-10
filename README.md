@@ -1,5 +1,1 @@
-Calculator – Perform basic arithmetic operations.
-Contact Book – Manage contacts with options to add, search, update, and delete.
-Password Generator – Create strong, random passwords based on user input.
-To-Do List – Add, view, and manage daily tasks.
-Rock-Paper-Scissors – A fun console game against the computer.
+This repository contains a collection of beginner-friendly Python programs developed as part of my internship at CodSoft. Each project is designed to demonstrate core programming concepts using simple, interactive applications.
